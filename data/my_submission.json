@@ -1,0 +1,27 @@
+{
+  "batch": "my-demo-2026-08-18",
+  "items": [
+    {
+      "key": "your.feature.key",
+      "zh": "把你要翻译的中文写在这里",
+      "control": "按钮",
+      "tone": "友好",
+      "scene": "在这里描述使用场景/PRD 说明，帮助模型理解语境",
+      "char_limit_en": 20,
+      "vars": [],
+      "target_langs": ["en", "ja", "ko"],
+      "ui_shot": null
+    },
+    {
+      "key": "cart.stock.remaining",
+      "zh": "还剩 {count} 件",
+      "control": "Toast 轻提示",
+      "tone": "友好",
+      "scene": "加入购物车时提示库存，制造轻度紧迫感",
+      "char_limit_en": 20,
+      "vars": ["{count}"],
+      "target_langs": ["en", "ja", "de", "ar"],
+      "ui_shot": null
+    }
+  ]
+}

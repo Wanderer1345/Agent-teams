@@ -1,0 +1,38 @@
+{
+  "batch": "demo-2026-07-28",
+  "items": [
+    {
+      "key": "sku.button.sold_out",
+      "zh": "已抢光",
+      "control": "按钮",
+      "tone": "克制",
+      "scene": "商品详情页限时秒杀，库存为 0 时按钮置灰不可点击。语气克制，不刺激用户。",
+      "char_limit_en": 12,
+      "vars": [],
+      "target_langs": ["en", "ja", "ko", "th", "id"],
+      "ui_shot": null
+    },
+    {
+      "key": "cart.stock.remaining",
+      "zh": "还剩 {count} 件",
+      "control": "Toast 轻提示",
+      "tone": "友好",
+      "scene": "加入购物车时提示当前库存，制造轻度紧迫感但不焦虑。",
+      "char_limit_en": 20,
+      "vars": ["{count}"],
+      "target_langs": ["en", "ja", "de", "ar"],
+      "ui_shot": null
+    },
+    {
+      "key": "growth.banner.boost_promo",
+      "zh": "用薯条，让好笔记被更多人看到",
+      "control": "营销 Banner",
+      "tone": "活泼",
+      "scene": "创作者中心推广位，鼓励作者购买“薯条”推广其“笔记”。含品牌功能名，需保持术语一致。",
+      "char_limit_en": null,
+      "vars": [],
+      "target_langs": ["en", "ja", "id"],
+      "ui_shot": null
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# LangGraph 编排最小依赖（Python 3.10+）
+langgraph>=1.0,<2.0
+langchain-core>=1.0,<2.0
+
+# 模型 provider（按需，任选其一即可跑真实模式）
+langchain-anthropic>=1.0,<2.0   # Claude
+langchain-openai>=1.0,<2.0      # OpenAI 及所有 OpenAI 兼容端点(DeepSeek/Kimi/通义千问兼容/智谱等)
+
+# 可选：LangSmith 追踪/可视化
+langsmith>=0.3.0

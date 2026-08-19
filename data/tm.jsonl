@@ -1,0 +1,16 @@
+{"key":"sku.button.sold_out","zh":"已抢光","lang":"en","translation":"Sold Out","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-06-12","round":1}
+{"key":"sku.button.sold_out","zh":"已抢光","lang":"ja","translation":"完売","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-06-12","round":1}
+{"key":"sku.button.sold_out","zh":"已抢光","lang":"ko","translation":"품절","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-06-12","round":1}
+{"key":"sku.button.sold_out","zh":"已抢光","lang":"id","translation":"Habis","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-06-12","round":1}
+{"key":"common.button.confirm","zh":"确定","lang":"en","translation":"OK","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-05-20","round":1}
+{"key":"common.button.confirm","zh":"确定","lang":"ja","translation":"OK","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-05-20","round":1}
+{"key":"common.button.confirm","zh":"确定","lang":"ko","translation":"확인","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-05-20","round":1}
+{"key":"common.button.cancel","zh":"取消","lang":"en","translation":"Cancel","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-05-20","round":1}
+{"key":"common.button.cancel","zh":"取消","lang":"ja","translation":"キャンセル","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-05-20","round":1}
+{"key":"cart.button.add","zh":"加入购物车","lang":"en","translation":"Add to Cart","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-06-01","round":2}
+{"key":"cart.button.add","zh":"加入购物车","lang":"ja","translation":"カートに追加","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-06-01","round":2}
+{"key":"profile.button.follow","zh":"关注","lang":"en","translation":"Follow","status":"approved","approved_by":"terminology-consistency-checker","approved_at":"2026-04-15","round":1}
+{"key":"profile.button.following","zh":"已关注","lang":"en","translation":"Following","status":"approved","approved_by":"terminology-consistency-checker","approved_at":"2026-04-15","round":1}
+{"key":"toast.copy.success","zh":"复制成功","lang":"en","translation":"Copied","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-05-03","round":1}
+{"key":"error.network","zh":"网络异常，请重试","lang":"en","translation":"Network error. Please try again.","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-05-03","round":1}
+{"key":"cart.stock.remaining","zh":"还剩 {count} 件","lang":"en","translation":"{count, plural, one {# item left} other {# left}}","status":"approved","approved_by":"native-linguistic-reviewer","approved_at":"2026-07-10","round":1,"note":"ICU 复数;按钮位空间有限 other 分支省略 items"}

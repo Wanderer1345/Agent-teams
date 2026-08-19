@@ -1,0 +1,17 @@
+# 密钥 / 环境
+.env
+**/.env
+.venv/
+**/.venv/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# 系统 / 编辑器
+.DS_Store
+**/.DS_Store
+
+# 打包
+teams.zip

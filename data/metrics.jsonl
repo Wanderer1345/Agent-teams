@@ -1,0 +1,2 @@
+# Per-batch review metrics. One JSON object per line. Written by feedback-loop. Seeded with 1 example.
+{"batch":"demo-2026-07-14","key":"growth.banner.boost_promo","first_pass_rate":0.67,"rework_rounds":1,"issues_by_category":{"terminology":1,"target_lang":1},"escalated_human":1}

@@ -1,0 +1,16 @@
+{
+  "batch": "my-demo",
+  "items": [
+    {
+      "key": "editor.button.save_draft",
+      "zh": "保存草稿",
+      "control": "按钮",
+      "tone": "克制",
+      "scene": "笔记编辑页底部按钮，点击后把当前内容保存为草稿。含义明确、无歧义、无营销或稀缺性表述。",
+      "char_limit_en": 15,
+      "vars": [],
+      "target_langs": ["en", "ja", "ko"],
+      "ui_shot": "images/your_ui.png"
+    }
+  ]
+}

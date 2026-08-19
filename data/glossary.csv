@@ -1,0 +1,15 @@
+term_zh,term_en,ja,ko,es,fr,de,th,id,vi,ar,domain,do_not_translate,note
+笔记,Note,ノート,노트,Nota,Note,Note,โน้ต,Catatan,Ghi chú,ملاحظة,content,false,平台核心内容单元;统一用 Note 不用 Post
+薯队长,Captain,キャプテン,캡틴,Capitán,Capitaine,Captain,กัปตัน,Kapten,Thuyền trưởng,الكابتن,brand,false,品牌 IP 官方角色;音译方案需人工确认
+薯条,Boost,ブースト,부스트,Impulso,Boost,Boost,บูสต์,Boost,Boost,تعزيز,growth,false,内容推广工具;不要直译为 French Fries
+蒲公英,Dandelion,ダンデライオン,민들레,Dandelion,Dandelion,Dandelion,Dandelion,Dandelion,Dandelion,commercial,false,品牌合作平台名;各语言暂统一英文 Dandelion,待各市场确认
+关注,Follow,フォロー,팔로우,Seguir,Suivre,Folgen,ติดตาม,Ikuti,Theo dõi,متابعة,social,false,动作;已关注状态用 Following
+收藏,Save,保存,저장,Guardar,Enregistrer,Speichern,บันทึก,Simpan,Lưu,حفظ,social,false,收藏动作;不要用 Favorite
+点赞,Like,いいね,좋아요,Me gusta,J'aime,Gefällt mir,ถูกใจ,Suka,Thích,إعجاب,social,false,点赞动作
+私信,Message,メッセージ,메시지,Mensaje,Message,Nachricht,ข้อความ,Pesan,Tin nhắn,رسالة,social,false,私信/DM;统一用 Message
+直播,Live,ライブ,라이브,En vivo,En direct,Live,ไลฟ์,Live,Trực tiếp,بث مباشر,commerce,false,直播功能
+优惠券,Coupon,クーポン,쿠폰,Cupón,Coupon,Gutschein,คูปอง,Kupon,Phiếu giảm giá,قسيمة,commerce,false,营销券
+购物车,Cart,カート,장바구니,Carrito,Panier,Warenkorb,ตะกร้า,Keranjang,Giỏ hàng,عربة التسوق,commerce,false,购物车
+会员,Membership,メンバーシップ,멤버십,Membresía,Abonnement,Mitgliedschaft,สมาชิก,Keanggotaan,Thành viên,العضوية,commerce,false,付费会员体系
+XHS,XHS,XHS,XHS,XHS,XHS,XHS,XHS,XHS,XHS,XHS,brand,true,品牌英文缩写;任何语言不翻译
+RED,RED,RED,RED,RED,RED,RED,RED,RED,RED,RED,brand,true,品牌英文名;不翻译、不本地化
